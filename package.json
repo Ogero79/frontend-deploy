@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Ogero79/frontend-deploy",
+  "homepage": "https://github.com/Ogero79/frontend-deployed",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
